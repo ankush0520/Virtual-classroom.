@@ -1,0 +1,8 @@
+backend/
+│
+├── models/               # Database models
+├── routes/               # API routes
+├── controllers/          # Controller functions for business logic
+├── middleware/           # Authentication middleware
+├── config/               # Configuration (DB, environment, etc.)
+└── server.js             # Express server entry point
