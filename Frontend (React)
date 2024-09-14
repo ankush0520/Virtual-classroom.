@@ -1,0 +1,9 @@
+frontend/
+│
+├── src/
+│   ├── components/       # React components
+│   ├── pages/            # Pages (e.g., Course page, Lecture page)
+│   ├── services/         # API calls
+│   ├── context/          # Global state management
+│   ├── App.js            # Main React App
+└── └── index.js          # Entry point
